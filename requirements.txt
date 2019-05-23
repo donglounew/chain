@@ -34,7 +34,7 @@ django-guardian==1.4.9
 django-jenkins==0.110.0
 django-jet==1.0.7
 django-pure-pagination==0.3.0
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 dnf==0.0.1
 dukpy==0.2.0
 feedparser==5.2.1
